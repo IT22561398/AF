@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_URL = "https://af-nidula-hesaras-projects.vercel.app/api/auth/";
+const API_URL = "https://af-d8h4-c1xoneurv-nidula-hesaras-projects.vercel.app/api/auth/";
 
 
 // Configure axios to include credentials
